@@ -39,6 +39,7 @@ nav {
     align-items: center;
     cursor: pointer;
 }
+
 .nav-links li {
     display: flex;
     display: inline;
@@ -164,3 +165,7 @@ nav {
         margin-left: 40px;
     }
 }
+
+
+
+
